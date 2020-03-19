@@ -3,8 +3,7 @@
 <head>
 	<title>OSMSMS</title>
 </head>
-<body>
-OSMSMS
+<body background="images/bg.png">
 OSMSMS
 </body>
 </html>
